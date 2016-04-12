@@ -1,0 +1,26 @@
+{
+  "name": "headerparser",
+  "version": "1.0.0",
+  "description": "parsing information available at header",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GlaDdos/HeaderParser.git"
+  },
+  "keywords": [
+    "parser"
+  ],
+  "author": "GlaDdos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GlaDdos/HeaderParser/issues"
+  },
+  "homepage": "https://github.com/GlaDdos/HeaderParser#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "mongodb": "^2.1.16"
+  }
+}
